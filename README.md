@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Justice
 
-<!--
-**JusticeBray/JusticeBray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Technology student at Oklahoma State University Institute of Technology pursuing a career in Systems Administration and Cybersecurity.
 
-Here are some ideas to get you started:
+Current Focus
+• Windows Server
+• Active Directory
+• Hyper-V
+• Networking
+• Python Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+• Windows Server & Active Directory Lab
+• Hyper-V Infrastructure Lab
+• Raspberry Pi Infrastructure Project
+• Python Projects
+• Responsive Web Development
+
+Expected Certifications by year end
+• Network+
+• Security+
